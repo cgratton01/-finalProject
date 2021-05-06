@@ -1,0 +1,9 @@
+to run the program simply select the run button or type finalProjectYay in the comand window
+then input data that you would like words in the title areas and numbers seperated by a space or comma
+in the value section then select your points color and the shape and select plot a plot should be created showing all of yourr data on a scatterplot in the ccolor and shape that you selected.
+
+plot title : scatter
+x value: 1,2,3,4,5
+y value:1,2,3,4,5
+x title: x axis
+y title: yaxis
